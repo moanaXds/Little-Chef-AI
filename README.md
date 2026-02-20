@@ -46,5 +46,3 @@ If you use VS Code, install the "Live Server" extension, right-click `index.html
 - **Progression**: Tracks high scores and streaks.
 
 Enjoy cooking! 👨‍🍳
-# Little-Chef-AI
-Little Chef AI is an interactive cooking game where players compete against time to prepare recipes while an AI chef observes, learns, and provides intelligent feedback.
