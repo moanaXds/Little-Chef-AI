@@ -21,7 +21,10 @@
 │   └── agents/            # Modular AI sub-agents
 -------------------
 │       ├── creativityAgent.js   # Recipe adaptation & creative suggestions
+------------------------------
 │       ├── ingredientAgent.js   # Ingredient tracking & recommendations
+------------------------------
 │       ├── strategyAgent.js     # Long-term cooking strategy planning
+------------------------------
 │       └── timingAgent.js       # Time management & urgency detection
 ----------------------
